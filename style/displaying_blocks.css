@@ -1,0 +1,104 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+#wrapper {
+    width: 950px;
+    background-color: beige;
+    margin: 0px auto;
+    overflow: hidden;
+    height: auto;
+    text-align: center;
+}
+
+#header {
+    min-height: 100px;
+    width: 900px;
+    display: inline-block;
+    text-align: center;
+    overflow: hidden;
+    /* background-color: green; */
+    margin: 5px;
+    font-family: Arial;
+    font-size: 40px;
+}
+
+#container1 {
+    height: auto;
+    width: auto;
+    /* background-color: blue; */
+    overflow: hidden;
+    margin-left: 20px;
+    /* border: solid black;     */
+    display: inline-block;
+    text-align:center;
+}
+
+#container2 {
+    height: auto;
+    width: auto;
+    /* background-color: red; */
+    overflow: hidden;
+    /* border: solid black; */
+    display:inline-block;
+    text-align: center;
+}
+
+#container3 {
+    height: auto;
+    width: auto;
+    /* background-color: yellow; */
+    overflow: hidden;
+    /* border: solid black; */
+    display: inline-block;
+    text-align: center;
+}
+
+#container4 {
+    height: auto;
+    width: auto;
+    /* background-color: purple; */
+    overflow: hidden;
+    /* border: solid black; */
+    display: inline-block;
+    text-align: center;
+}
+
+#container5 {
+    height: auto;
+    width: auto;
+    /* background-color:chocolate; */
+    overflow: hidden;
+    /* border: solid black; */
+    display: inline-block;
+    text-align: center;
+}
+
+.cat{
+    width: 120px;
+    background-color: white;
+    display: inline-block;
+}
+
+img{
+    width:120px;
+    background-color:cornflowerblue;
+    border: solid black;
+    padding: 20px;
+}
+
+.girl{
+    width:120px;
+    background-color: palevioletred;
+    border: solid black;
+    padding: 20px;
+}
+
+.bob{
+    height: 110px;
+    width:120px;
+    background-color: cornflowerblue;
+    border: solid black;
+    padding: 25px;
+}
